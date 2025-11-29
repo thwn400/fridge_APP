@@ -1,3 +1,14 @@
+# Project docs
+CLAUDE.md
+기획.markdown
+TODO.markdown
+
+# Config (sensitive data)
+lib/config.dart
+
+# Generated files
+*.g.dart
+
 # Miscellaneous
 *.class
 *.log
